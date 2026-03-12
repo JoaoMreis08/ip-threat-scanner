@@ -18,7 +18,7 @@ Um script em Python desenvolvido para automatizar a verificação de reputação
 
 1. **Clone o repositório:**
    ```bash
-   git clone [[https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/JoaoMreis08/ip-threat-scanner.git)]
+   git clone (https://github.com/JoaoMreis08/ip-threat-scanner.git)
 
 
 2. Instale as dependências:
