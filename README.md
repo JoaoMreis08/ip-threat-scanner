@@ -18,7 +18,7 @@ Um script em Python desenvolvido para automatizar a verificação de reputação
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+   git clone [[https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/JoaoMreis08/ip-threat-scanner.git)]
 
 
 2. Instale as dependências:
@@ -26,11 +26,11 @@ Um script em Python desenvolvido para automatizar a verificação de reputação
     pip install -r requirements.txt
 
 
-3.Configure sua API Key:
+3. Configure sua API Key:
 
     Crie um arquivo .env na raiz do projeto.
     Adicione sua chave: ABUSE_API_KEY=sua_chave_aqui
 
-4.Execute o programa:
+4. Execute o programa:
 
     python main.py
